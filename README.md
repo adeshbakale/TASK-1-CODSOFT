@@ -10,7 +10,6 @@ The data comes from a CSV file called "archive.zip". Includes details like survi
 Libraries used: numpy, pandas, matplotlib.pyplot, seaborn, sklearn.preprocessing.LabelEncoder, sklearn.model_selection.train_test_split, sklearn.linear_model.LogisticRegression.
 
 # steps:
-
 1)Loaded the data using pandas, checked its size and previewed the first 10 rows.
 
 2)Explore the numeric data with df.describe() to understand the dataset.
