@@ -1,14 +1,15 @@
 # TASK-1-CODSOFT
-Project goal:
+
+# Project goal:
 Create a model that, based on the information provided, will predict whether the passengers of the Titanic survived.
 
-#dataset:
+# dataset:
 The data comes from a CSV file called "archive.zip". Includes details like survival, class, gender and age.
 
-Key Libraries:
+# Key Libraries:
 Libraries used: numpy, pandas, matplotlib.pyplot, seaborn, sklearn.preprocessing.LabelEncoder, sklearn.model_selection.train_test_split, sklearn.linear_model.LogisticRegression.
 
-#steps:
+# steps:
 
 1)Loaded the data using pandas, checked its size and previewed the first 10 rows.
 
